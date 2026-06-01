@@ -14,7 +14,7 @@ This repo is a comprehensive Business Intelligence solution developed in Power B
 - How to vsualize insights on Power BI
 
 ## Preview 
-[Dashbord Screenshot](sreenshot.ong)
+[Dashbord Screenshot](https://github.com/UdehFavour-data/Finance-Recruitment-Business-Case-Study/blob/main/Screenshot%20(6).png)
 > Click the image above to see a preveiw of the final dashboard.
 # Finance_Recruitment_Business_Case_Study
 This repo contains an analysis project done in Excel and PowerBI
